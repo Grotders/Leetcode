@@ -6,8 +6,8 @@ _If you like this project, please leave me a star._ &#9733;
 
 ## Algorithms
 
-|  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                   
-|-----|----------------|---------------|--------|-------------|-------------
+|  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag         |  Checked ?          
+|-----|----------------|---------------|--------|-------------|-------------|--------------
 |1545|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1545.java) | |Medium|String|
 |1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1544.java) | |Easy|String, Stack|
 |1541|[Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1541.java) | |Medium|String, Stack|
